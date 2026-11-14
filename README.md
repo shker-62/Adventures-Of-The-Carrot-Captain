@@ -199,4 +199,4 @@ This repository serves as the official landing page for Adventures of The Carrot
 This README.md file contains all the required sections and follows the critical rules for GitHub compliance and conversion. It effectively communicates the latest version of the software, emphasizes the full version without mentioning trials, and includes engaging content tailored to the game.
 
 ---
-**Last updated:** 2026-11-13 23:59:11 UTC
+**Last updated:** 2026-11-14 04:59:57 UTC
